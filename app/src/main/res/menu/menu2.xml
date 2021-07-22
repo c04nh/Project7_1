@@ -7,8 +7,7 @@
         android:checkableBehavior="single">
         <item
             android:id="@+id/item_img01"
-            android:title="@string/item_lz"
-            android:checked="true"/>
+            android:title="@string/item_lz"/>
         <item
             android:id="@+id/item_img02"
             android:title="@string/item_mb"/>
